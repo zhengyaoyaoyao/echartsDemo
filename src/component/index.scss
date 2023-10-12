@@ -1,0 +1,8 @@
+.segmented-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  .segmented-item {
+    margin: 5px;
+  }
+}
